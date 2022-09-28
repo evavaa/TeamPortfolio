@@ -387,12 +387,12 @@ body {
         height: 500px;
         flex: 0 0 100%;
         width: 100%;
-        background-image: url(images/final.JPEG);
+        background-image: url(https://github.com/evavaa/TeamPortfolio/blob/main/images/final.jpeg?raw=true);
         counter-increment: item;
       }
       
       .carousel__slide:nth-child(even) {
-        background-image: url(images/final2.JPEG);
+        background-image: url(https://github.com/evavaa/TeamPortfolio/blob/main/images/final2.jpeg?raw=true);
       }
       
       .carousel__slide:before {
