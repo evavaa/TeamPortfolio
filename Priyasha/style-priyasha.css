@@ -277,7 +277,7 @@ body {
     background-image: var(--card-img-hovered-overlay), url(https://user-images.githubusercontent.com/99101410/155901294-7ade247c-5a11-4799-a687-4c795b1a0842.png);
   }
   .card-3 .card-img, .card-3 .card-img-hovered {
-    background-image: var(--card-img-hovered-overlay), url(images/oosd.png);
+    background-image: var(--card-img-hovered-overlay), url(../images/oosd.png);
   }
   
   
